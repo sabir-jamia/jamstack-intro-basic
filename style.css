@@ -1,4 +1,6 @@
-html, body {
+html,
+body {
+   background-color: yellow;
    color: #555;
    font-family: sans-serif;
    font-size: 18px;
